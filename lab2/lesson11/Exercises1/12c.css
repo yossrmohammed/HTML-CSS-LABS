@@ -1,0 +1,9 @@
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .d1 {
+    background-color: lightpink;
+  }

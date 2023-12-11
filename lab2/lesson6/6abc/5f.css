@@ -1,0 +1,24 @@
+*{
+    font-family: Arial;
+}
+#s1{
+    font-size: 40px;
+
+}
+#s2{
+    color: gray;
+    font-size: 20px;
+    
+}
+#s3{
+    color: gray;
+    font-weight: bold;
+    
+}
+#s4{
+    color: red;
+    
+}
+#p2{
+    color: green;
+}

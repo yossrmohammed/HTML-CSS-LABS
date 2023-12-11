@@ -1,0 +1,20 @@
+*{
+    font-family: Arial;
+}
+#s1{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+#s2{
+    color: gray;
+    font-size: 20px;
+    
+}
+
+div{
+    width: 500px;
+}
+a{
+text-decoration: none;
+}

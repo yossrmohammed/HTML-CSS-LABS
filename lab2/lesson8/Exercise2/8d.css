@@ -1,0 +1,32 @@
+*{
+    margin-left: 5px;
+}
+input {
+
+    border: 1px solid gray;
+    padding: 12px 16px;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-bottom: 12px;
+  }
+  
+  .fname , .lname {
+    width: 130px;
+  }
+  
+  
+  .email {
+    display: block;
+    width: 300px;
+  }
+  
+  button {
+    background-color: blue;
+    color: white;
+    border: none;
+    width: 340px;
+    padding: 14px 0;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 8px;
+  }
