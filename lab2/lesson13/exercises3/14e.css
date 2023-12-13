@@ -1,0 +1,50 @@
+body {
+    height: 3000px;
+  }
+  
+  .d1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 10px 50px;
+  }
+  
+  .d2 {
+    display: flex;
+    align-items: center;
+  }
+  
+  img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 20px;
+    margin-right: 10px;
+  }
+  
+  .name {
+    font-weight: bold;
+    font-family: Arial;
+  }
+  
+  .bttn1 {
+    background-color: rgb(24, 119, 242);
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 6px;
+    margin-right: 3px;
+  }
+  
+  .bttn2 {
+    background-color: rgb(230, 230, 230);
+    border: none;
+    font-weight: bold;
+    padding: 8px 12px;
+    border-radius: 6px;
+  }

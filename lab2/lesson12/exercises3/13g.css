@@ -1,0 +1,75 @@
+div {
+    font-family: Arial;
+  }
+  
+  .tweet {
+    display: flex;
+    flex-direction: row;
+    width: 420px;
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+  
+  .profilepicturecolumn {
+    margin-right: 10px;
+  }
+  
+ img{
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 30px;
+  }
+  
+  .tweetcolumn {
+    flex: 1;
+  }
+  
+  .tweetheader {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+  }
+  
+  .tweetauthor {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  .tweetauthorhandle {
+    color: rgb(111, 111, 111);
+  }
+  
+  .tweetcontent {
+    line-height: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .videopreview {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 15px;
+    border:  1px solid white;
+    overflow: hidden;
+  }
+  
+  .thumbnailcolumn {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(220, 220, 220);
+    margin-right: 10px;
+  }
+  
+  .videoinfocolumn {
+    flex: 1;
+  }
+  
+  .videowebsite {
+    color: rgb(111, 111, 111);
+    margin-bottom: 3px;
+  }
+  
+  .videotitle {
+    line-height: 22px;
+  }
